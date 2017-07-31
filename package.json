@@ -1,0 +1,15 @@
+{
+  "name": "vscode_bug",
+  "version": "16.3.0",
+  "description": "Vscode Bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc -p tsconfig.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^2.4.2"
+  }
+}
